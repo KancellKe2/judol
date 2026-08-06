@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+raw_domains.txt
+verified_domains.txt
+.env

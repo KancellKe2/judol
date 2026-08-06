@@ -1,0 +1,2 @@
+# Judol AdBlock List
+# Placeholder - akan di-update otomatis oleh GitHub Actions
