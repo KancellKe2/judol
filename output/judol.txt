@@ -1,2 +1,4 @@
 # Judol AdBlock List
-# Placeholder - akan di-update otomatis oleh GitHub Actions
+# Generated: 2026-08-06 12:10 UTC
+# Total: 0 domains
+
